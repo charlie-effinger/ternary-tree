@@ -1,0 +1,13 @@
+>(run)
+
+
+Input a List: ( 4 3 6 7 2 15)
+
+(4)
+(NIL 3 NIL 4 NIL)
+(NIL 3 NIL 4 (6))
+(NIL 3 NIL 4 (NIL 6 NIL 7 NIL))
+((2) 3 NIL 4 (NIL 6 NIL 7 NIL))
+((2) 3 NIL 4 (NIL 6 NIL 7 (15)))
+((2) 3 NIL 4 (NIL 6 NIL 7 (15)))
+

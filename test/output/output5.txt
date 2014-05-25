@@ -1,0 +1,26 @@
+(1)
+(NIL 1 NIL 2 NIL)
+(NIL 1 NIL 2 (3))
+(NIL 1 NIL 2 (NIL 3 NIL 4 NIL))
+(NIL 1 NIL 2 (NIL 3 NIL 4 (5)))
+(NIL 1 NIL 2 (NIL 3 NIL 4 (NIL 5 NIL 6 NIL)))
+(NIL 1 NIL 2 (NIL 3 NIL 4 (NIL 5 NIL 6 (7))))
+(NIL 1 NIL 2 (NIL 3 NIL 4 (NIL 5 NIL 6 (NIL 7 NIL 8 NIL))))
+(NIL 1 NIL 2 (NIL 3 NIL 4 (NIL 5 NIL 6 (NIL 7 NIL 8 (9)))))
+(NIL 1 NIL 2
+     (NIL 3 NIL 4 (NIL 5 NIL 6 (NIL 7 NIL 8 (NIL 9 NIL 10 NIL)))))
+(NIL 1 NIL 2
+     (NIL 3 NIL 4 (NIL 5 NIL 6 (NIL 7 NIL 8 (NIL 9 NIL 10 (11))))))
+(NIL 1 NIL 2
+     (NIL 3 NIL 4
+          (NIL 5 NIL 6
+               (NIL 7 NIL 8 (NIL 9 NIL 10 (NIL 11 NIL 12 NIL))))))
+(NIL 1 NIL 2
+     (NIL 3 NIL 4
+          (NIL 5 NIL 6
+               (NIL 7 NIL 8 (NIL 9 NIL 10 (NIL 11 NIL 12 (13)))))))
+(NIL 1 NIL 2
+     (NIL 3 NIL 4
+          (NIL 5 NIL 6
+               (NIL 7 NIL 8 (NIL 9 NIL 10 (NIL 11 NIL 12 (13)))))))
+

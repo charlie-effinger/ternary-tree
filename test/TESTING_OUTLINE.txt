@@ -1,0 +1,31 @@
+TEST CASES:
+
+Test 0: Dr. Finkel's Data (data.ternary.txt)
+Data: test0.data
+Output: output0.txt
+
+Test 1: Dr. Finkel's Other Data (In Assignment Description)
+Data: test1.data
+Output: output1.txt
+
+Test 2: Random Data
+Data: test2.data
+Output 2: output2.txt
+
+Test 3: No Data
+Data: test3.data
+Output 3: output3.data
+
+Test 4: Homogeneous Data
+Data: test4.data
+Output 4: output4.txt
+
+Test 5: Linear Data
+Data: test5.data
+Output 5: output5.txt
+
+Test 6: Exiting Program
+Output 6: output6.data
+
+Test 7: Command Line Input
+Output 7: output7.data
