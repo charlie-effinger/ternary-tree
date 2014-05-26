@@ -1,5 +1,4 @@
 ; Charles Effinger
-; CS 450 - Program 4 - Lisp Ternary Tree
 
 ; This function is used to find the nodes in the tree. The parameter L is the 
 ; current list and A is the which node is desired- either 1 or 2.
